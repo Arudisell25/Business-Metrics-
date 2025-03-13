@@ -1,4 +1,4 @@
-# Report-Based-Project-
+# Personality Analysis-
 Key findings and recommendations report for fresh beats, including the utilization of Google Docs and Google Sheet
 
 1. [Project Overview](#project-overview)
