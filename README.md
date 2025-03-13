@@ -1,5 +1,5 @@
 # Personality Analysis-
-Key findings and recommendations report for fresh beats, including the utilization of Google Docs and Google Sheet
+Analyzing responses that can reveal certain behaviors and personality traits.
 
 1. [Project Overview](#project-overview)
 2. [Data Sources](#data-sources)
