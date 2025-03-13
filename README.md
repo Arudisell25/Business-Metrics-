@@ -8,3 +8,7 @@ Key findings and recommendations report for fresh beats, including the utilizati
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 6. [Conclusion and Recommendations](#conclusion-and-recommendations)
 7. [Future Work and Enhancements](#future-work-and-enhancements)
+
+
+   
+![image](https://github.com/user-attachments/assets/decd7148-ef41-41d9-a978-9152cda7ad11)
